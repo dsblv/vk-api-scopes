@@ -12,7 +12,7 @@ $ npm install --save vk-api-scopes
 
 ## Usage
 
-The module is just an instance of JavaScript Object, you can use it like this for example:
+The module is just an instance of JavaScript `Object`, you can use it like this for example:
 
 ```js
 var vkApiScopes = require('vk-api-scopes');
