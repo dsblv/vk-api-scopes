@@ -23,6 +23,13 @@ console.log('The bit mask is ' + mask + '!');
 ```
 
 
+## Related
+
+- [vk-api-all-methods](https://github.com/dsblv/vk-api-all-methods) — List of all VK API methods
+- [vk-api-open-methods](https://github.com/dsblv/vk-api-open-methods) — List of VK API methods that don't require authentication
+- [vk-api-scoped-methods](https://github.com/dsblv/vk-api-scoped-methods) — Hash of VK API methods that require correct scope and scopes they require
+
+
 ## License
 
 MIT © [Dmitriy Sobolev](http://vk.com/sobo13v)
