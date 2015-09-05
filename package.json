@@ -1,6 +1,6 @@
 {
   "name": "vk-api-scopes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hash of VK API access permission codes",
   "license": "MIT",
   "repository": "dsblv/vk-api-scopes",
