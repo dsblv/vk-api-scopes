@@ -1,0 +1,22 @@
+{
+	"notify": 1,
+	"friends": 2,
+	"photos": 4,
+	"audio": 8,
+	"video": 16,
+	"offers": 32,
+	"questions": 64,
+	"pages": 128,
+	"link": 256,
+	"status": 1024,
+	"notes": 2048,
+	"messages": 4096,
+	"wall": 8192,
+	"ads": 32768,
+	"offline": 65536,
+	"docs": 131072,
+	"groups": 262144,
+	"email": 4194304,
+	"notifications": 524288,
+	"stats": 1048576
+}
